@@ -26,7 +26,7 @@ public class TextDTO {
 	private String text;
 	
 	@Column (name = "chars", nullable=false)
-	private int chars;
+	private Integer chars;
 	
 	@Column (name = "result", nullable=false)
 	private String result;

@@ -9,6 +9,6 @@ import lombok.Setter;
 public class TextRequest {
 
 	private String text;
-	private int chars;
+	private Integer chars;
 
 }
